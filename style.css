@@ -1,5 +1,6 @@
 body {
-    background-color:black;
+    background:black url(img/eyes.jpeg) no-repeat center fixed;
+    background-size: 1700px;
 }
 
 p {
@@ -14,6 +15,7 @@ h1 {
     font-weight: 100;
     font-style: normal;
     text-align:center;
+    size: 1000px;
 }
 
 ul {
