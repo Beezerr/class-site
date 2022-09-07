@@ -4,9 +4,18 @@ body {
 
 p {
     color: floralwhite;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
 }
 
 h1 {
     color:floralwhite;
+    font-family: avebury-black, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    text-align:center;
+}
+
+ul {
+    text-align:center;
 }
