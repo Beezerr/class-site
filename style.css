@@ -7,6 +7,7 @@ p {
     color: floralwhite;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align:center;
+    font-size: 150%;
 }
 
 h1 {
@@ -15,7 +16,7 @@ h1 {
     font-weight: 100;
     font-style: normal;
     text-align:center;
-    size: 1000px;
+    font-size: 400%;
 }
 
 ul {
