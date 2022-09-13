@@ -1,0 +1,38 @@
+body {
+    background: rosybrown;
+    margin: 20px;
+}
+
+h1 {
+    color: darkolivegreen;
+    position:fixed;
+    left: 700px;
+    font-size: 50px;
+}
+
+h2 {
+    color: darkolivegreen;
+    position: fixed;
+    left: 700px;
+    bottom: 375px;
+}
+
+p {
+    color: blanchedalmond;
+    position: relative;
+    text-align: center;
+    top: 550px;
+}
+
+li {
+    color:blanchedalmond;
+    position: relative;
+    top: 550px;
+}
+
+img {
+    position: fixed;
+    left: 530px;
+    top: 100px;
+}
+
