@@ -7,7 +7,27 @@ body {
     background: papayawhip;
 }
 
+h1 {
+    color: olive;
+    font-family: ratiomodern, serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 40px;
+    position: relative;
+    text-align: center;
+    width: 103%;
+}
+
+p {
+    position: relative;
+    display: block;
+    text-align: center;
+}
+
 img {
     position: relative;
-    left: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
 }
