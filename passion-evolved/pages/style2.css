@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin:0;
+    background: darkolivegreen;
+}
+
+h1 {
+    color: blanchedalmond;
+    font-family: ratiomodern, serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 60px;
+    position: relative;
+    text-align: center;
+    width: 103%;
+}
+
+p {
+    margin-left: 100px;
+    margin-right: 100px;
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+}
+
+img {
+    position: relative;
+    align-items: center;
+    width: 600px;
+    padding: 20px;
+    margin-left: 550px;
+}
