@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.main-container {
+    background: darkslategray;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.sky {
+    background: darkslategray;
+    display: flex;
+    flex-direction: column;
+    height: 43%;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+}
+
+.moon {
+    background: khaki;
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+    width: 5%;
+}
+
+
+.ground {
+    background: darkolivegreen;
+    display: flex;
+    flex-direction: column;
+    height: 35%;
+    width: 100vw;
+    align-items:center;
+    justify-content: center;
+}
+
+.path {
+    background: tan;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 15%;
+}
+
+.headstones {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 20%;
+}
+
+.headstone {
+    background: dimgray;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 8%;
+}
+
+.bases {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 2%;
+}
+
+.base {
+    background: dimgray;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 9%;
+}
