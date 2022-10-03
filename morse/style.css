@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin:0;
+    background-color: black;
+}
+
+.flex {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.i {
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+
+    animation: pulse 0.5s 2 ease;
+}
+
+.l {
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    animation-name: pulse;
+
+    animation: pulse 0.5s 4 ease;
+}
+
+.o {
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+
+    animation: pulse 0.5s 3 ease;
+}
+
+.v {
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+
+    animation: pulse 0.5s 4 ease;
+}
+
+.e {
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+
+    animation: pulse 0.5s 1 ease;
+}
+
+.y {
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+
+    animation: pulse 0.5s 4 ease;
+}
+
+.oo {
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+
+    animation: pulse 0.5s 3 ease;
+}
+
+.u {
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+
+    animation: pulse 0.5s 3 ease;
+}
+
+@keyframes pulse {
+    0% {
+        background-color: whitesmoke;
+    }
+
+    100% {
+        background-color: black;
+    }
+}
